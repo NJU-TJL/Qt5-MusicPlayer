@@ -38,4 +38,5 @@ https://github.com/NJU-TJL/Qt5-MusicPlayer/releases
 
 
 
-**转载请注明原作者：https://github.com/NJU-TJL/Qt5-MusicPlayer**（使用Apache 2.0开源协议）
+**转载请注明原作者：https://github.com/NJU-TJL/Qt5-MusicPlayer**  
+（使用Apache 2.0开源协议）
