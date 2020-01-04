@@ -29,14 +29,18 @@ Qt5 （Qt Creator 4.8.2 + Qt 5.9.8 MinGW 32bit）
 
 https://github.com/NJU-TJL/Qt5-MusicPlayer/releases
 
+****
 
+**Copyright © 2020 NJU-TJL**  
+
+**[开放源代码许可](https://github.com/NJU-TJL/Qt5-MusicPlayer/blob/master/LICENSE)**
+
+**转载请注明原作者：https://github.com/NJU-TJL/Qt5-MusicPlayer**  
+
+****
 
 **设计详情请见于报告：**[点击下载](https://github.com/NJU-TJL/Qt5-MusicPlayer/raw/master/doc/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1%E6%8A%A5%E5%91%8A%20-%20%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8.pdf)
 
 ![](./README.assets/my-report.png)
 
 
-
-
-**转载请注明原作者：https://github.com/NJU-TJL/Qt5-MusicPlayer**  
-（使用Apache 2.0开源协议）
