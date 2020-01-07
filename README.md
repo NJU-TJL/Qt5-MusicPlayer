@@ -1,7 +1,9 @@
 # LightMusicPlayer
-*——南京大学2019秋季学期 ”高级程序设计 “ 课程设计三*
+*——南京大学2019秋季学期 “高级程序设计” 课程设计三*
 
 基于Qt5开发的一个小巧精美的本地音乐播放器
+
+若**图片加载失败**，可访问CSDN博客查看：https://blog.csdn.net/Kingsman_T/article/details/103879947
 
 ![cover](README.assets/cover.png)
 
