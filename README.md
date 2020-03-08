@@ -3,7 +3,9 @@
 
 基于Qt5开发的一个小巧精美的本地音乐播放器
 
-（若**图片加载失败**，可访问CSDN博客查看：https://blog.csdn.net/Kingsman_T/article/details/103879947 或者 码云仓库：https://gitee.com/NJU-TJL/Qt5-MusicPlayer）
+
+
+PS：若**图片加载失败**，可访问CSDN博客查看：https://blog.csdn.net/Kingsman_T/article/details/103879947 或者 码云仓库：https://gitee.com/NJU-TJL/Qt5-MusicPlayer 
 
 ![cover](README.assets/cover.png)
 
