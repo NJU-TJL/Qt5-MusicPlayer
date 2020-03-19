@@ -33,6 +33,8 @@ Qt5 （Qt Creator 4.8.2 + Qt 5.9.8 MinGW 32bit）
 
 https://github.com/NJU-TJL/Qt5-MusicPlayer/releases
 
+https://gitee.com/NJU-TJL/Qt5-MusicPlayer/releases/v1.0.0    （码云，国内下载速度更快）
+
 ****
 
 **Copyright © 2020 NJU-TJL**  
