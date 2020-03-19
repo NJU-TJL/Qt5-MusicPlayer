@@ -5,9 +5,13 @@
 
 
 
-PS：若**图片加载失败**，可访问CSDN博客查看：https://blog.csdn.net/Kingsman_T/article/details/103879947 或者 码云仓库：https://gitee.com/NJU-TJL/Qt5-MusicPlayer 
+PS：若**图片加载失败**，可访问CSDN博客查看：https://blog.csdn.net/Kingsman_T/article/details/103879947  或者  码云仓库：https://gitee.com/NJU-TJL/Qt5-MusicPlayer 
 
-![cover](README.assets/cover.png)
+![cover](./image.assets/cover.png)
+
+添加歌曲操作（自动过滤可播放类型文件）
+
+![添加歌曲操作](./image.assets/show.gif)
 
 
 
@@ -47,6 +51,9 @@ https://gitee.com/NJU-TJL/Qt5-MusicPlayer/releases/v1.0.0    （码云，国内�
 
 **设计详情请见于报告：**[点击下载](https://github.com/NJU-TJL/Qt5-MusicPlayer/raw/master/doc/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1%E6%8A%A5%E5%91%8A%20-%20%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8.pdf)
 
-![](./README.assets/my-report.png)
+![课程设计目录](./image.assets/my-report.png)
 
+
+
+PS：这个项目是临近期末的一个课程设计，当时大概花了一两周的时间做，而代码量确实很大，所以确实可能存在一些潜在Bug🤣...可在[Issues](https://github.com/NJU-TJL/Qt5-MusicPlayer/issues)中沟通，有空的话我会尽力回复！
 
